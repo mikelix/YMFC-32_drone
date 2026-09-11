@@ -1,6 +1,8 @@
 # Arduino-Drone-YMFC-32-C
 
 Modified Version of Joop Brokking's YMFC32 Autonomous Quadcopter.  Huge thank you to Joop Brokking for his hard work, great videos (seriously great videos) and ongoing inspiration.
+https://www.youtube.com/watch?v=SC6Se_JBs7w
+
 
 ![YMFC-32-C](/Images/YMFC32-C.jpg)
 
